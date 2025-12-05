@@ -1,0 +1,1 @@
+{"num_inputs": 24, "num_hidden": 128, "num_layers": 4, "condition_size": 1, "num_camadas": 2, "residual": true, "rndm_mask": false, "fun_act": "relu", "drop_prob": 0.0, "norm_batch": false}
